@@ -1,4 +1,4 @@
-# Homework week 4
+# Homework week 4 - Currency calculator
 This repository is a simple currency-calculator.
 
  - Website language: polish
